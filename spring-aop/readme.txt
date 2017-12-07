@@ -8,3 +8,10 @@
 6、从GitHub上下载spring源码（可以从spring.io官网找到对应的GitHub地址链接进入。）
 7、在下载好的spring源码根文件夹中先后执行：gradlew.bat==》import-into-eclipse.bat
 8、在eclipse中点击鼠标右键==》选择“import”==》“gradle”==》找到指定的项目导入
+
+20171207
+	1、以“Aspect.class”为关键字搜索，重点分析：“org.springframework.aop.aspectj.annotation.AbstractAspectJAdvisorFactory”类。
+
+
+
+
